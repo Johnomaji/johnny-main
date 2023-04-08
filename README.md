@@ -14,7 +14,7 @@
   height="12"
   alt="Nigeria"> <b>Nigeria</b>.</p>
   	
-  💡 &nbsp;I create projects & content on Web development, \
+  💡 &nbsp;I create projects & content on Web development,
   🚧 &nbsp;I'm currently working on some awesome projects  
   💬 &nbsp;always available for consulting, volunteering or discussion.
 </p>
